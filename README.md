@@ -1,1 +1,1 @@
-# AfricaHacks2020-Educateapp
+# AfricaHacks2020-EducateMEapp
