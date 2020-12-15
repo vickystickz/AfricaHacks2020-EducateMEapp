@@ -1,0 +1,34 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: Century 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+header{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(logo.jpg);
+    height:100vh;
+    background-size: cover;
+    background-position: center ;
+    
+}
+ul {
+    float: right;
+    list-style-type: none;
+    margin-top: 19px;
+}
+
+ul li{
+    display: inline-block;
+}
+ul li a{
+    text-decoration: none;
+    color: 	rgb(0,0,255);
+    padding: 5px 20px;
+    border: 2px solid #000000;  
+}
+ul li a:hover{
+    background-color: rgb(0,0,255);
+    color: #000000;
+    transition: 0.6s ease;
+}
+
